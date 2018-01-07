@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Зеленчукова борса", "01.Зеленчукова борса\01.Зеленчукова борса.csproj", "{4174C172-1F73-4BFB-9CB2-53F5B9A18A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Pipes in a pool", "02.Pipes in a pool\02.Pipes in a pool.csproj", "{EA6D8250-DC2B-42EF-8AF9-0E64E05990E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Пътешествие", "03.Пътешествие\03.Пътешествие.csproj", "{D776E27E-842D-4C8E-8540-B7B4104EC588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Деление без остатък", "04.Деление без остатък\04.Деление без остатък.csproj", "{C42D2E2A-C7FD-4879-8D6A-1566E907EE54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Пеперуда", "05.Пеперуда\05.Пеперуда.csproj", "{009E71E4-23A2-43CE-B622-D794386C8735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Магически числа", "06.Магически числа\06.Магически числа.csproj", "{2178EA19-5BD3-4190-80E1-7A64073AFEA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4174C172-1F73-4BFB-9CB2-53F5B9A18A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4174C172-1F73-4BFB-9CB2-53F5B9A18A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4174C172-1F73-4BFB-9CB2-53F5B9A18A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4174C172-1F73-4BFB-9CB2-53F5B9A18A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6D8250-DC2B-42EF-8AF9-0E64E05990E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6D8250-DC2B-42EF-8AF9-0E64E05990E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6D8250-DC2B-42EF-8AF9-0E64E05990E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6D8250-DC2B-42EF-8AF9-0E64E05990E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D776E27E-842D-4C8E-8540-B7B4104EC588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D776E27E-842D-4C8E-8540-B7B4104EC588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D776E27E-842D-4C8E-8540-B7B4104EC588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D776E27E-842D-4C8E-8540-B7B4104EC588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42D2E2A-C7FD-4879-8D6A-1566E907EE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42D2E2A-C7FD-4879-8D6A-1566E907EE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42D2E2A-C7FD-4879-8D6A-1566E907EE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42D2E2A-C7FD-4879-8D6A-1566E907EE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009E71E4-23A2-43CE-B622-D794386C8735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009E71E4-23A2-43CE-B622-D794386C8735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009E71E4-23A2-43CE-B622-D794386C8735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009E71E4-23A2-43CE-B622-D794386C8735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2178EA19-5BD3-4190-80E1-7A64073AFEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2178EA19-5BD3-4190-80E1-7A64073AFEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2178EA19-5BD3-4190-80E1-7A64073AFEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2178EA19-5BD3-4190-80E1-7A64073AFEA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
